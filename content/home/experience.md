@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Strata Decision"
   company_url = ""
   location = "Chicago"
-  date_start = "2018-05-07"
+  date_start = "2018-05-08"
   date_end = ""
   description = """
 Strata Decision Technology is a SaaS company serving 25% of U.S. hospitals. We deploy financial software for healthcare leaders to make informed financial decisions to combat the rising costs of healthcare. In my role I maintained a balance of business expertise and technical knowledge to guide financial decision makers and IT teams toward robust, tangible analytics solutions. 
