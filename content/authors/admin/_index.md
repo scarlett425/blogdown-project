@@ -5,7 +5,7 @@ bio: My research interests include spatial data, social sciences, and healthcare
 education:
   courses:
 
-email: ""
+email: "winters.scarlett.e@gmail.com"
 interests:
 - Data Analysis
 - Data Visualization
